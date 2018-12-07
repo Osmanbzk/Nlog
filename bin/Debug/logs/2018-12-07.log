@@ -1,0 +1,220 @@
+2018-12-07 12:06:48.8291 INFO Transaction baslatildi.
+2018-12-07 12:06:48.8620 FATAL ABC servisi çalismiyor.
+2018-12-07 12:06:48.8620 ERROR DB baglantisi saglanamdi.
+2018-12-07 12:06:48.8730 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 12:27:10.2677 INFO Transaction baslatildi.
+2018-12-07 12:27:10.3046 FATAL ABC servisi çalismiyor.
+2018-12-07 12:27:10.3116 ERROR DB baglantisi saglanamdi.
+2018-12-07 12:27:10.3116 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 12:27:56.7016 INFO Transaction baslatildi.
+2018-12-07 12:27:56.7335 FATAL ABC servisi çalismiyor.
+2018-12-07 12:27:56.7335 ERROR DB baglantisi saglanamdi.
+2018-12-07 12:27:56.7454 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 14:06:51.6898 INFO Transaction baslatildi.
+2018-12-07 14:06:51.7317 FATAL ABC servisi çalismiyor.
+2018-12-07 14:06:51.7317 ERROR DB baglantisi saglanamdi.
+2018-12-07 14:06:51.7517 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 14:44:48.1488 INFO Transaction baslatildi.
+2018-12-07 14:44:48.1937 FATAL ABC servisi çalismiyor.
+2018-12-07 14:44:48.2016 ERROR DB baglantisi saglanamdi.
+2018-12-07 14:44:48.2016 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 14:45:40.9739 INFO Transaction baslatildi.
+2018-12-07 14:45:41.0049 FATAL ABC servisi çalismiyor.
+2018-12-07 14:45:41.0049 ERROR DB baglantisi saglanamdi.
+2018-12-07 14:45:41.0168 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 14:45:57.3282 INFO Transaction baslatildi.
+2018-12-07 14:45:57.3631 FATAL ABC servisi çalismiyor.
+2018-12-07 14:45:57.3631 ERROR DB baglantisi saglanamdi.
+2018-12-07 14:45:57.3760 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 14:47:13.2887 INFO Transaction baslatildi.
+2018-12-07 14:47:13.3156 FATAL ABC servisi çalismiyor.
+2018-12-07 14:47:13.3156 ERROR DB baglantisi saglanamdi.
+2018-12-07 14:47:13.3286 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 14:48:17.8402 INFO Transaction baslatildi.
+2018-12-07 14:48:17.8741 FATAL ABC servisi çalismiyor.
+2018-12-07 14:48:17.8741 ERROR DB baglantisi saglanamdi.
+2018-12-07 14:48:17.8860 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 14:54:43.6902 INFO Transaction baslatildi.
+2018-12-07 14:54:43.7261 FATAL ABC servisi çalismiyor.
+2018-12-07 14:54:43.7330 ERROR DB baglantisi saglanamdi.
+2018-12-07 14:54:43.7330 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 14:54:59.8138 INFO Transaction baslatildi.
+2018-12-07 14:54:59.8388 FATAL ABC servisi çalismiyor.
+2018-12-07 14:54:59.8438 ERROR DB baglantisi saglanamdi.
+2018-12-07 14:54:59.8438 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 14:55:14.6936 INFO Transaction baslatildi.
+2018-12-07 14:55:14.7275 FATAL ABC servisi çalismiyor.
+2018-12-07 14:55:14.7335 ERROR DB baglantisi saglanamdi.
+2018-12-07 14:55:14.7335 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 14:56:12.8087 INFO Transaction baslatildi.
+2018-12-07 14:56:12.8357 FATAL ABC servisi çalismiyor.
+2018-12-07 14:56:12.8436 ERROR DB baglantisi saglanamdi.
+2018-12-07 14:56:12.8436 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 14:56:40.7910 INFO Transaction baslatildi.
+2018-12-07 14:56:40.8229 FATAL ABC servisi çalismiyor.
+2018-12-07 14:56:40.8269 ERROR DB baglantisi saglanamdi.
+2018-12-07 14:56:40.8269 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:00:28.6837 INFO Transaction baslatildi.
+2018-12-07 15:00:28.7137 FATAL ABC servisi çalismiyor.
+2018-12-07 15:00:28.7196 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:00:28.7196 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:02:51.0279 INFO Transaction baslatildi.
+2018-12-07 15:02:51.0568 FATAL ABC servisi çalismiyor.
+2018-12-07 15:02:51.0628 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:02:51.0628 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:07:22.7544 INFO Transaction baslatildi.
+2018-12-07 15:07:22.7813 FATAL ABC servisi çalismiyor.
+2018-12-07 15:07:22.7813 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:07:22.7943 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:10:12.2100 INFO Transaction baslatildi.
+2018-12-07 15:10:12.2390 FATAL ABC servisi çalismiyor.
+2018-12-07 15:10:12.2390 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:10:12.2519 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:15:22.3880 INFO Transaction baslatildi.
+2018-12-07 15:15:22.4220 FATAL ABC servisi çalismiyor.
+2018-12-07 15:15:22.4220 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:15:22.4359 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:16:16.4907 INFO Transaction baslatildi.
+2018-12-07 15:16:16.5256 FATAL ABC servisi çalismiyor.
+2018-12-07 15:16:16.5316 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:16:16.5316 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:16:56.5797 INFO Transaction baslatildi.
+2018-12-07 15:16:56.6057 FATAL ABC servisi çalismiyor.
+2018-12-07 15:16:56.6057 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:16:56.6057 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:17:42.5954 INFO Transaction baslatildi.
+2018-12-07 15:17:42.6243 FATAL ABC servisi çalismiyor.
+2018-12-07 15:17:42.6243 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:17:42.6363 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:23:15.8770 INFO Transaction baslatildi.
+2018-12-07 15:23:15.9119 FATAL ABC servisi çalismiyor.
+2018-12-07 15:23:15.9199 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:23:15.9199 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:23:27.9778 INFO Transaction baslatildi.
+2018-12-07 15:23:28.0107 FATAL ABC servisi çalismiyor.
+2018-12-07 15:23:28.0177 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:23:28.0177 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:23:39.6723 INFO Transaction baslatildi.
+2018-12-07 15:23:39.6962 FATAL ABC servisi çalismiyor.
+2018-12-07 15:23:39.7022 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:23:39.7022 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:24:08.3791 INFO Transaction baslatildi.
+2018-12-07 15:24:08.4020 FATAL ABC servisi çalismiyor.
+2018-12-07 15:24:08.4020 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:24:08.4020 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:24:19.1176 INFO Transaction baslatildi.
+2018-12-07 15:24:19.1495 FATAL ABC servisi çalismiyor.
+2018-12-07 15:24:19.1555 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:24:19.1555 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:24:33.4038 INFO Transaction baslatildi.
+2018-12-07 15:24:33.4298 FATAL ABC servisi çalismiyor.
+2018-12-07 15:24:33.4367 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:24:33.4367 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:24:49.6403 INFO Transaction baslatildi.
+2018-12-07 15:24:49.6682 FATAL ABC servisi çalismiyor.
+2018-12-07 15:24:49.6682 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:24:49.6682 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:25:07.8916 INFO Transaction baslatildi.
+2018-12-07 15:25:07.9215 FATAL ABC servisi çalismiyor.
+2018-12-07 15:25:07.9215 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:25:07.9345 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:29:38.6969 INFO Transaction baslatildi.
+2018-12-07 15:29:38.7278 FATAL ABC servisi çalismiyor.
+2018-12-07 15:29:38.7348 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:29:38.7348 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:36:00.4593 INFO Transaction baslatildi.
+2018-12-07 15:36:00.4992 FATAL ABC servisi çalismiyor.
+2018-12-07 15:36:00.4992 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:36:00.5203 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:38:09.0218 INFO Transaction baslatildi.
+2018-12-07 15:38:09.0517 FATAL ABC servisi çalismiyor.
+2018-12-07 15:38:09.0597 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:38:09.0597 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:38:37.2617 INFO Transaction baslatildi.
+2018-12-07 15:38:37.2926 FATAL ABC servisi çalismiyor.
+2018-12-07 15:38:37.2926 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:38:37.2926 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:38:57.3997 INFO Transaction baslatildi.
+2018-12-07 15:38:57.4287 FATAL ABC servisi çalismiyor.
+2018-12-07 15:38:57.4346 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:38:57.4346 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:39:27.0153 INFO Transaction baslatildi.
+2018-12-07 15:39:27.0433 FATAL ABC servisi çalismiyor.
+2018-12-07 15:39:27.0433 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:39:27.0433 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:39:40.9963 INFO Transaction baslatildi.
+2018-12-07 15:39:41.0253 FATAL ABC servisi çalismiyor.
+2018-12-07 15:39:41.0312 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:39:41.0312 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:40:06.8160 INFO Transaction baslatildi.
+2018-12-07 15:40:06.8439 FATAL ABC servisi çalismiyor.
+2018-12-07 15:40:06.8439 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:40:06.8599 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:41:32.5123 INFO Transaction baslatildi.
+2018-12-07 15:41:32.5402 FATAL ABC servisi çalismiyor.
+2018-12-07 15:41:32.5492 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:41:32.5492 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:42:12.6851 INFO Transaction baslatildi.
+2018-12-07 15:42:12.7120 FATAL ABC servisi çalismiyor.
+2018-12-07 15:42:12.7180 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:42:12.7180 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 15:42:47.0422 INFO Transaction baslatildi.
+2018-12-07 15:42:47.0692 FATAL ABC servisi çalismiyor.
+2018-12-07 15:42:47.0752 ERROR DB baglantisi saglanamdi.
+2018-12-07 15:42:47.0752 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:09:36.3391 INFO Transaction baslatildi.
+2018-12-07 16:09:36.3740 FATAL ABC servisi çalismiyor.
+2018-12-07 16:09:36.3740 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:09:36.3919 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:30:36.5595 INFO Transaction baslatildi.
+2018-12-07 16:30:36.6004 FATAL ABC servisi çalismiyor.
+2018-12-07 16:30:36.6084 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:30:36.6084 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:30:52.2244 INFO Transaction baslatildi.
+2018-12-07 16:30:52.2563 FATAL ABC servisi çalismiyor.
+2018-12-07 16:30:52.2623 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:30:52.2623 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:37:04.5561 INFO Transaction baslatildi.
+2018-12-07 16:37:04.5930 FATAL ABC servisi çalismiyor.
+2018-12-07 16:37:04.5930 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:37:04.6050 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:37:17.3419 INFO Transaction baslatildi.
+2018-12-07 16:37:17.3698 FATAL ABC servisi çalismiyor.
+2018-12-07 16:37:17.3778 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:37:17.3778 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:37:33.2345 INFO Transaction baslatildi.
+2018-12-07 16:37:33.2674 FATAL ABC servisi çalismiyor.
+2018-12-07 16:37:33.2674 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:37:33.2804 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:37:55.9106 INFO Transaction baslatildi.
+2018-12-07 16:37:55.9375 FATAL ABC servisi çalismiyor.
+2018-12-07 16:37:55.9375 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:37:55.9545 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:38:33.0428 INFO Transaction baslatildi.
+2018-12-07 16:38:33.0747 FATAL ABC servisi çalismiyor.
+2018-12-07 16:38:33.0747 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:38:33.0747 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:39:11.8624 INFO Transaction baslatildi.
+2018-12-07 16:39:11.8914 FATAL ABC servisi çalismiyor.
+2018-12-07 16:39:11.8914 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:39:11.9033 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:40:57.5434 INFO Transaction baslatildi.
+2018-12-07 16:40:57.5783 FATAL ABC servisi çalismiyor.
+2018-12-07 16:40:57.5783 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:40:57.5933 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:43:02.7283 INFO Transaction baslatildi.
+2018-12-07 16:43:02.7603 FATAL ABC servisi çalismiyor.
+2018-12-07 16:43:02.7672 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:43:02.7672 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:44:01.1130 INFO Transaction baslatildi.
+2018-12-07 16:44:01.1429 FATAL ABC servisi çalismiyor.
+2018-12-07 16:44:01.1429 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:44:01.1549 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:45:02.4382 INFO Transaction baslatildi.
+2018-12-07 16:45:02.4721 FATAL ABC servisi çalismiyor.
+2018-12-07 16:45:02.4801 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:45:02.4801 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
+2018-12-07 16:46:46.1333 INFO Transaction baslatildi.
+2018-12-07 16:46:46.1652 FATAL ABC servisi çalismiyor.
+2018-12-07 16:46:46.1712 ERROR DB baglantisi saglanamdi.
+2018-12-07 16:46:46.1712 WARN Transaction sonlandririldi ama islemler tamamlanamadi.
